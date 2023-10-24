@@ -7,3 +7,11 @@
 **Thoughts:** Testing seems pretty boring at first, but I believe It'd be more fun when I get used to it more.
 
 **Link to work:** [Basic tests in my social app](https://github.com/kofta999/mySocial/tree/master/server/test)
+
+### Day 2: October 24, 2023
+
+**Today's progress**: Dived deeper into testing and learned using mock databases and testing code that needs auth.
+
+**Thoughts:** Chai and mocha seems kinda old? I feel I need to search more about more common testing frameworks to try them out.
+
+**Link to work:** [More tests for my social app](https://github.com/kofta999/mySocial/tree/master/server/test)
