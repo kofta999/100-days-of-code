@@ -15,3 +15,11 @@
 **Thoughts:** Chai and mocha seems kinda old? I feel I need to search more about more common testing frameworks to try them out.
 
 **Link to work:** [More tests for my social app](https://github.com/kofta999/mySocial/tree/master/server/test)
+
+### Day 3: October 25, 2023
+
+**Today's progress**: Decided to learn more about SQL syntax and did some coding exercises on it.
+
+**Thoughts:** I felt that I needed to get more understanding on SQL so I can understand ORMs better.
+
+**Link to work:** [SQL exercises](https://github.com/WebDevSimplified/Learn-SQL)
