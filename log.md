@@ -23,3 +23,14 @@
 **Thoughts:** I felt that I needed to get more understanding on SQL so I can understand ORMs better.
 
 **Link to work:** [SQL exercises](https://github.com/WebDevSimplified/Learn-SQL)
+
+### Day 4: October 26, 2023
+
+**Today's progress**: Finished more exercices on SQL and started working on an open source project.
+
+**Thoughts:** Well, time to work on another express project, hope I gain some new experience and knowledge from it.
+
+**Link to work:**
+  *  [SQL exercises](https://www.w3schools.com/SQL/exercise.asp)
+  *  [GitHub project repo](https://github.com/kofta999/collabspace)
+                  
