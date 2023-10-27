@@ -34,3 +34,12 @@
   *  [SQL exercises](https://www.w3schools.com/SQL/exercise.asp)
   *  [GitHub project repo](https://github.com/kofta999/collabspace)
                   
+### Day 5: October 27, 2023
+
+**Today's progress**: Started learning about deno and continued working on an open source project.
+
+**Thoughts:** Prisma or Dirzzle, that's the question.
+
+**Link to work:**
+  *  [GitHub pull request](https://github.com/devvspaces/collabspace/pull/31)
+                  
