@@ -42,4 +42,13 @@
 
 **Link to work:**
   *  [GitHub pull request](https://github.com/devvspaces/collabspace/pull/31)
-                  
+
+
+### Day 6: October 28, 2023
+
+**Today's progress**: Finalized the Nodejs course and started learning frontend from the Odin projects.
+
+**Thoughts:** No thoughts, head empty
+
+**Link to work:**
+  *  Local repo for today
