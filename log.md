@@ -46,9 +46,19 @@
 
 ### Day 6: October 28, 2023
 
-**Today's progress**: Finalized the Nodejs course and started learning frontend from the Odin projects.
+**Today's progress**: Finalized the Nodejs course and started learning frontend from the Odin project.
 
 **Thoughts:** No thoughts, head empty
 
 **Link to work:**
   *  Local repo for today
+
+### Day 7: October 29, 2023
+
+**Today's progress**: Learned the basics of HTML and built a small project with it.
+
+**Thoughts:** HTML best programming language. /s
+
+**Link to work:**
+* [GitHub Repo](https://github.com/kofta999/odin-recipes)
+* [Project website](https://kofta999.github.io/odin-recipes/)
