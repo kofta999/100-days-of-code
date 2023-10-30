@@ -62,3 +62,12 @@
 **Link to work:**
 * [GitHub Repo](https://github.com/kofta999/odin-recipes)
 * [Project website](https://kofta999.github.io/odin-recipes/)
+
+### Day 8: October 30, 2023
+
+**Today's progress**: Started learning CSS and finished 3 tasks on it.
+
+**Thoughts:** CSS actually isn't that bad, yet
+
+**Link to work:**
+* [GitHub Repo](https://github.com/kofta999/odin-recipes)
