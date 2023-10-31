@@ -71,3 +71,12 @@
 
 **Link to work:**
 * [GitHub Repo](https://github.com/kofta999/odin-recipes)
+
+### Day 8: October 31, 2023
+
+**Today's progress**: Added styling using CSS on the recipe website I made two days ago to practice using it.
+
+**Thoughts:** We stylin'
+
+**Link to work:**
+* [GitHub Repo](https://github.com/kofta999/odin-recipes)
